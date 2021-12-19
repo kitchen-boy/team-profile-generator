@@ -70,3 +70,14 @@ The image shows the generated HTML's appearance and functionality.
 
 # LINKS
 * Link to the code repository: (https://github.com/kitchen-boy/team-profile-generator) 
+
+# CREDITS
+Kaye Chen-Boyce
+
+### References and tutorials utilized
+* []()
+* BCS Learning Assistant
+* [How to use Inquirer](https://www.npmjs.com/package/inquirer)
+* [A collection of common interactive command line user interfaces](https://github.com/SBoudrias/Inquirer.js)
+* Instructor Scott Burman
+* Tutor Alexis San Javier
