@@ -77,6 +77,7 @@ Kaye Chen-Boyce
 ### References and tutorials utilized
 * []()
 * BCS Learning Assistant
+* [How to use Jest for running the unit tests](https://www.npmjs.com/package/jest)
 * [How to use Inquirer](https://www.npmjs.com/package/inquirer)
 * [A collection of common interactive command line user interfaces](https://github.com/SBoudrias/Inquirer.js)
 * Instructor Scott Burman
