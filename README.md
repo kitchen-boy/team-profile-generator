@@ -13,10 +13,10 @@
 # DESCRIPTION:
 A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-#TASK COMPLETED: 
+# TASK COMPLETED: 
 Unit tests for each part of the code have also been written and ensured that all code passes all tests, because testing is key to making code maintainable. 
 
-#USER STORY:
+# USER STORY:
 ```md
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
